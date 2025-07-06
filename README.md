@@ -1,0 +1,1 @@
+This is a simple personal portfolio website built using HTML5 and CSS3. It showcases essential sections such as About Me, Skills, and Contact Me, and includes navigation buttons, a YouTube video, and a basic contact form. The design is clean and responsive, ideal for beginners learning frontend development.
